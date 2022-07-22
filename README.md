@@ -2,7 +2,11 @@
 
 Esse projeto tem fins estudantis, é apenas um projeto para testar meu conhecimento básico em relação ao Spring Boot. E como desafio desse projeto vou solucionar um desafio que foi proposto em uma vaga de Dev Java Junior Back-end na TOTVS, na qual eu não tinha o conhecimento necessário para resolver naquele momento, mas agora eu consegui.
 
-Introdução do problema
+## Introdução do problema
+<img src="https://i.imgur.com/hqE8Ixr.png"></img>
+<img src="https://i.imgur.com/oJ4gMJv.png"></img>
+
+
 
 ## O que vai ser preciso para testar essa API?
   - Postman.
